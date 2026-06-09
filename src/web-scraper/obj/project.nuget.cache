@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUqYoauXjec=",
+  "success": true,
+  "projectFilePath": "/Users/carlsoriano/Documents/GitHub/web-scraper-c-sharp/src/web-scraper/web-scraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlsoriano/.nuget/packages/csvhelper/33.1.0/csvhelper.33.1.0.nupkg.sha512",
+    "/Users/carlsoriano/.nuget/packages/htmlagilitypack/1.12.4/htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
