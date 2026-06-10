@@ -1,0 +1,21 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+## IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Scraper output
+src/web-scraper/Outputs/*.csv
+!src/web-scraper/Outputs/.gitkeep

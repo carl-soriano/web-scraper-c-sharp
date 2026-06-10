@@ -16,3 +16,4 @@
 /Users/carlsoriano/Documents/GitHub/web-scraper-c-sharp/src/web-scraper/obj/Debug/net10.0/web-scraper.pdb
 /Users/carlsoriano/Documents/GitHub/web-scraper-c-sharp/src/web-scraper/obj/Debug/net10.0/web-scraper.genruntimeconfig.cache
 /Users/carlsoriano/Documents/GitHub/web-scraper-c-sharp/src/web-scraper/obj/Debug/net10.0/ref/web-scraper.dll
+/Users/carlsoriano/Documents/GitHub/web-scraper-c-sharp/src/web-scraper/obj/Debug/net10.0/web-scraper.sourcelink.json
